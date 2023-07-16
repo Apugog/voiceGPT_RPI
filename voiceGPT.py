@@ -10,7 +10,7 @@ engine = t2s.init()
 voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[1].id)
 
-openai.api_key = "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"
+openai.api_key = "YOUR_API_KEY"
 
 def talk(text):
     engine.say(text)
