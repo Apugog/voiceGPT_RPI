@@ -1,0 +1,1 @@
+This is a implementation of voice GPT to run on a raspberry Pi
